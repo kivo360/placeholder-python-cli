@@ -1,4 +1,4 @@
-# Space CLI
+# Personalized CI Tool
 
 ### To Install:
 
